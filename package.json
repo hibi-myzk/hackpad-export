@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "dependencies": {
     "hackpad": "0.0.3",
-    "optimist": "0.6.0"
+    "optimist": "0.6.0",
+    "mkdirp": "0.5.1"
   },
   "main": "./index.js",
   "repository": {
